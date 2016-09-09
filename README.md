@@ -3,6 +3,8 @@ Project Pi Cam Car
 
 <h2>Maker Challenge 2016 Submission Project</h2>
 
+<h3>Submission category:		Useful Project</h3>
+
 <h3>Project name:		Pi Cam Car</h3>
 
 <h3>Project developer: Thi Yen Thu Nguyen</h3>
