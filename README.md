@@ -30,7 +30,7 @@ code_package.zip
 
 materials&tools_list.pdf
 
-project_desciption.pdf
+project_description.pdf
 
 setup_instructions.pdf
 
