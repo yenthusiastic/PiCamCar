@@ -24,10 +24,14 @@ Pi Cam Car is able to play supported audio file through its attached loudspeaker
 
 Below is the list of all documents and files needed to build the project:
 car_frame_design.pdf
+
 code_package.zip
-material_list.xls
+
+materials&tools_list.pdf
+
 project_desciption.pdf
-set_up_instructions.pdf
+
+setup_instructions.pdf
 
 
 <b><h3>License information</h3></b>
