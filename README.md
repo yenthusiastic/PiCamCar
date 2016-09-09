@@ -8,6 +8,8 @@
 
 <b><h3>Description of functionalities</h3></b>
 
+<img src = "https://drive.google.com/file/d/0B77ddV_s5oS_aVlNZmZ2cUZoVmM/view">
+
 <h4>Automated driving and obstruction avoiding </h4>
 When wired correctly and powered using the recommended battery pack, the Pi Cam Car should be able to drive by itself. While driving, it can detect obstructions in front of it. This is done using the ultrasonic sensor placed at the top front of the car. When the obstruction is close enough, the car will avoid the obstruction by turning left or right, until there is no more obstruction in its way. 
 
