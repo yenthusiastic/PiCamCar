@@ -1,6 +1,6 @@
 import RPi.GPIO as io
 import time
-from time import sleep as sleep
+from time import sleep
 
 
 class Motorcontroller(object):
@@ -37,7 +37,7 @@ class Motorcontroller(object):
             io.output(self.m_pins[3], 1)
             self.motor_l.ChangeDutyCycle(abs(self.left))
         if self.right >= 0:
-            self.right = self.train(self.right, 0, 100)
+            self.right = self.constrain(self.right, 0, 100)
             io.output(self.m_pins[4], 1)
             io.output(self.m_pins[5], 0)
             self.motor_r.ChangeDutyCycle(self.right)
